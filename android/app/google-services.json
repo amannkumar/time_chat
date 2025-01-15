@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "238735075934",
+    "project_id": "time-chat-c0e45",
+    "storage_bucket": "time-chat-c0e45.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238735075934:android:466a4885c79b3567fb22cf",
+        "android_client_info": {
+          "package_name": "com.time_chat.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBZQLw9lX1UESDgpwMcgq5n_zrwbe5MJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
